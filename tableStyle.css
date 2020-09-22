@@ -1,0 +1,31 @@
+table:nth-of-type(2) {
+    background-color: #F5FAFC;
+}
+
+
+
+table {
+    border-color: #3399CC;
+    border-bottom-width: 2px;
+    border-collapse: collapse;
+
+}
+
+td {
+    padding:0.5em;
+    border-color: #3399CC;
+    border-bottom-width: 2px;
+    text-align: center;
+
+}
+
+th {
+    padding:0.5em;
+    border-color: #3399CC;
+    border-bottom-width: 2px;
+
+}
+
+text {
+    text-align: left;
+}
